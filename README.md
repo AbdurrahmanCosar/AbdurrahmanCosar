@@ -1,9 +1,12 @@
 <img src="image.png" width="200" style="float: right;">
 
 <div align="center" style="position: relative;">
-    <style>h1,h2,h3,h4 { border-bottom: 0; } </style>
+    <style>
+      .custom-heading {
+        border-bottom: 0;
+      } 
+    </style>
     <div style="position: absolute; top: 90px; left: 70px;">
-        <h1>Abdurrahman Cosar</h1>
     </div>
     <div style="position: absolute; top: 100px; left: 127px; text-align: center;">
         <h4>Student & Programmer</h4>
