@@ -15,7 +15,7 @@ I'm Abdurrahman Coşar. I'm 18 years old and live in Turkey. I'm a high school s
 
 - Introduction to Machine Learning
 - Introduction to Data Science
-- Introduction to C Language
+- C Language
 
 ### 🔧 Language & Tools
 
